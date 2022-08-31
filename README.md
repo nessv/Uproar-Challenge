@@ -3,7 +3,7 @@
 ### Uproar challenge Project
 **Time Limit:** 4 hours
 
-**Objective:** Fetch a list of videos from an API, pull in a video and play it, ensuring the video navigation buttons are not displayed. The video should be played on a continuous loop.
+**Objective:** Fetch a list of videos from an [API](https://github.com/nessv/Uproar-Challenge/blob/main/video_list.json "API"), pull in a video and play it, ensuring the video navigation buttons are not displayed. The video should be played on a continuous loop.
 
 #### Tasks
 - Implement assignment using SwiftUI
