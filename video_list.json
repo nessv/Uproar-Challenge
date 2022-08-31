@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "url": "https://uproar-backend-api-dev.s3.amazonaws.com/90429947-e475-49d2-a797-bc4e04f4b864",
+      "previewImageUrl": "https://uproar-backend-api-dev.s3.amazonaws.com/7f887c94-48e1-44e8-96e4-5ee760f71907",
+      "fileExtension": "mov"
+    },
+    {
+      "url": "https://uproar-backend-api-dev.s3.amazonaws.com/7c654fe6-d4af-496a-b4e5-d9d29d9e8db9",
+      "previewImageUrl": "https://uproar-backend-api-dev.s3.amazonaws.com/86e90aed-8b80-4179-ab07-f361849a76a8",
+      "fileExtension": "mov"
+    },
+    {
+      "url": "https://uproar-backend-api-dev.s3.amazonaws.com/2196c947-f77d-46d0-9788-cca339af5b50",
+      "previewImageUrl": "https://uproar-backend-api-dev.s3.amazonaws.com/e43a2fcd-9007-4563-8c48-2fe0f19fa4ff",
+      "fileExtension": "mov"
+    },
+    {
+      "url": "https://uproar-backend-api-dev.s3.amazonaws.com/0143e78d-d887-45c0-a480-2e275be8d178",
+      "previewImageUrl": "https://uproar-backend-api-dev.s3.amazonaws.com/4de70a00-f5b4-4937-a11a-a82b8e29f0be",
+      "fileExtension": "mov"
+    },
+    {
+      "url": "https://uproar-backend-api-dev.s3.amazonaws.com/bbb7d074-7e5c-4e4d-a478-0e4405f087a5",
+      "previewImageUrl": "https://uproar-backend-api-dev.s3.amazonaws.com/5e82223d-8780-4e7e-8783-9ea319f2cfca",
+      "fileExtension": "mov"
+    },
+    {
+      "url": "https://uproar-backend-api-dev.s3.amazonaws.com/3413fbe7-5c46-41f5-8ed8-161b9c226255",
+      "previewImageUrl": "https://uproar-backend-api-dev.s3.amazonaws.com/e260fda4-8065-4329-8ba7-639f42c294ac",
+      "fileExtension": "mov"
+    },
+    {
+      "url": "https://uproar-backend-api-dev.s3.amazonaws.com/48a5d27f-ab73-493b-914c-964222d3f7a6",
+      "previewImageUrl": "https://uproar-backend-api-dev.s3.amazonaws.com/724a199b-aa39-42d6-baeb-1aeee0caa139",
+      "fileExtension": "mov"
+    },
+    {
+      "url": "https://uproar-backend-api-dev.s3.amazonaws.com/55751658-69eb-4c94-988b-c79534373b2c",
+      "previewImageUrl": "https://uproar-backend-api-dev.s3.amazonaws.com/d5bff1e5-4524-423b-b53d-caf46f4c0ca8",
+      "fileExtension": "mov"
+    },
+    {
+      "url": "https://uproar-backend-api-dev.s3.amazonaws.com/326e2738-9d1d-42fe-a074-0b1d71b62437",
+      "previewImageUrl": "https://uproar-backend-api-dev.s3.amazonaws.com/5a4d1de6-7325-4c3c-91af-e6bd28c83a6b",
+      "fileExtension": "mov"
+    },
+    {
+      "url": "https://uproar-backend-api-dev.s3.amazonaws.com/73434e0a-6bab-4ef3-94dd-40897a06ded4",
+      "previewImageUrl": "https://uproar-backend-api-dev.s3.amazonaws.com/3fb4988a-5c2e-461c-946d-78bcab6ecca8",
+      "fileExtension": "mov"
+    }
+  ]
+}
